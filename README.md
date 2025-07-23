@@ -26,7 +26,7 @@ The I-V characteristics were measured using a **Keysight B1500A Semiconductor De
 | **Saturation Current (Idss)** | 2.48 x 10⁻¹² A  | 3.68 x 10⁻⁹ A  |
 | **Built-in Potential (Vbi)** | 1.58 V  | 1.07 V  |
 #### I-V Characterization Curves
-*The graphs attached in the repository show the raw measurement data for both diode types.
+*The graphs attached in the "Readings" folder show the raw measurement data for both diode types.
 
 ## 結論 (Conclusion)
 
