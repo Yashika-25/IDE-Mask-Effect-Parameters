@@ -32,13 +32,10 @@ The I-V characteristics were measured using a **Keysight B1500A Semiconductor De
 
 The study successfully demonstrated the trade-offs associated with using an IDE contact for a P-Si/ZnO vertical heterojunction diode.
 
-**Improved Ideality:** The IDE mask led to a slight reduction in the ideality factor, suggesting a move toward more ideal diode behavior, potentially due to more uniform current distribution. 
-
-**Increased Leakage:** However, the IDE mask also resulted in a saturation current (leakage) that was approximately three orders of magnitude larger, likely due to the increased contact area and perimeter providing more pathways for surface leakage. 
-
-**Reduced Built-in Potential:** A noticeable decrease in the built-in potential ($Vbi$) was observed for the IDE contact.This could be attributed to changes in the effective junction area or other interface effects introduced by the IDE geometry.
-
-**Overall Impact:** While IDEs are often used to reduce series resistance, this work shows that for vertical diodes, they can introduce undesirable effects like higher leakage current.  This highlights the critical need to match contact geometry to device architecture and performance goals.
+* **Improved Ideality:** The IDE mask led to a slight reduction in the ideality factor, suggesting a move toward more ideal diode behavior, potentially due to more uniform current distribution. 
+* **Increased Leakage:** However, the IDE mask also resulted in a saturation current (leakage) that was approximately three orders of magnitude larger, likely due to the increased contact area and perimeter providing more pathways for surface leakage. 
+* **Reduced Built-in Potential:** A noticeable decrease in the built-in potential ($Vbi$) was observed for the IDE contact.This could be attributed to changes in the effective junction area or other interface effects introduced by the IDE geometry.
+* **Overall Impact:** While IDEs are often used to reduce series resistance, this work shows that for vertical diodes, they can introduce undesirable effects like higher leakage current.  This highlights the critical need to match contact geometry to device architecture and performance goals.
 
 ## 🛠️ Learning Outcomes
 
