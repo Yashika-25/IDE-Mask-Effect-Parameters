@@ -1,4 +1,4 @@
-  ********* IDE Mask Effect Parameters*********
+   # IDE Mask Effect Parameters
 
 ## 📌 Overview:
 This project investigates the fabrication and characterization of P-Si/ZnO heterojunction diodes, focusing on the impact of contact geometry on key electrical parameters.
@@ -57,9 +57,9 @@ This project was a collaborative effort by:
 
 * **Yashika Tyagi** ([LinkedIn](https://www.linkedin.com/in/yashika-tyagi-487a71284/)) ([GitHub](https://github.com/Yashika-25))
   
-**Ojaswini Sharma**
+* **Ojaswini Sharma**
 
-**Sarthak Pratap Singh**
+* **Sarthak Pratap Singh**
 
 
 
