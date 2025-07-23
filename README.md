@@ -48,15 +48,11 @@ This project provided hands-on experience in semiconductor device fabrication , 
 * **Advanced Interface Characterization:** Investigate the P-Si/ZnO interface properties more deeply to better understand the non-ideal transport mechanisms and the sources of leakage current.
  * **Optimization of IDE Geometry:** Fabricate and test devices with varying IDE finger widths and spacing to find an optimal geometry that balances the benefits of lower resistance with the drawback of increased saturation current.
 
-## 👥 Authors
+## 👥 Author
 
-This project was a collaborative effort by:
 
 * **Yashika Tyagi** ([LinkedIn](https://www.linkedin.com/in/yashika-tyagi-487a71284/)) ([GitHub](https://github.com/Yashika-25))
   
-* **Ojaswini Sharma**
-
-* **Sarthak Pratap Singh**
 
 
 
