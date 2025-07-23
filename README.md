@@ -1,4 +1,4 @@
-    # IDE Mask Effect on Diode Parameters
+    #IDE Mask Effect on Diode Parameters
 
 ## 📌 Overview:
 This project investigates the fabrication and characterization of P-Si/ZnO heterojunction diodes, focusing on the impact of contact geometry on key electrical parameters.
