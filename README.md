@@ -56,7 +56,9 @@ This project provided hands-on experience in semiconductor device fabrication , 
 This project was a collaborative effort by:
 
 * **Yashika Tyagi** ([LinkedIn](https://www.linkedin.com/in/yashika-tyagi-487a71284/)) ([GitHub](https://github.com/Yashika-25))
+  
 **Ojaswini Sharma**
+
 **Sarthak Pratap Singh**
 
 
